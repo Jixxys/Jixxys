@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
+``` My name is Jixxys And I am a student at SMA 3 Kuta Selatan ```
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## 🚀 My Statistic 
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Jixxys&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jixxys&theme=tokyonight" alt="mystreak"/>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h6 align="center">Made with ❤️</h6>
 <!--
-**Jixxys/Jixxys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
